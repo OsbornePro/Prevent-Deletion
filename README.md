@@ -2,7 +2,7 @@
 ![OsbornePro](https://raw.githubusercontent.com/tobor88/OsbornePro-The-Blue-Team-PowerShell-Security-Package/master/WEF%20Application/WEF/WEF/wwwroot/images/Logo.png) <br>
 
 ### Summary
-This application is used to prevent the deletion of a defined file or directory to the Everyone group. This then force the use of Admin credentials to delete the file or directory.
+This application is used to prevent the deletion of a defined file or directory to the Everyone group. This then forces the use of Admin credentials to delete the file or directory.
 
 ### How To Use
 To use the "__Prevent Deletion__" app follow these steps.
