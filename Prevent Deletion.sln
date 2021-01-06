@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prevent Deletion", "Prevent Deletion\Prevent Deletion.csproj", "{5D47F9AA-EFF6-42B5-9FF0-4D1AC8DC7688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D47F9AA-EFF6-42B5-9FF0-4D1AC8DC7688}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5D47F9AA-EFF6-42B5-9FF0-4D1AC8DC7688}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5D47F9AA-EFF6-42B5-9FF0-4D1AC8DC7688}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D47F9AA-EFF6-42B5-9FF0-4D1AC8DC7688}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7273667B-562C-460E-95FC-1237FA0F0574}
+	EndGlobalSection
+EndGlobal

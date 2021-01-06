@@ -1,0 +1,13 @@
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\bin\Debug\Prevent Deletion.exe.config
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\bin\Debug\Prevent Deletion.exe
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\bin\Debug\Prevent Deletion.pdb
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent Deletion.csprojAssemblyReference.cache
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent_Deletion.PreventDeletion.resources
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent_Deletion.Properties.Resources.resources
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent Deletion.csproj.GenerateResource.cache
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent Deletion.csproj.CoreCompileInputs.cache
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent Deletion.exe
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent Deletion.pdb
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\bin\Debug\en-US\Prevent Deletion.resources.dll
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\Prevent_Deletion.PreventDeletion.en-US.resources
+C:\Users\robos\source\repos\Prevent Deletion\Prevent Deletion\obj\Debug\en-US\Prevent Deletion.resources.dll
